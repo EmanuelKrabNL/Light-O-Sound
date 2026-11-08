@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Arduino",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${env:HOME}/Arduino/libraries/Adafruit_NeoPixel"
+      ]
+    }
+  ],
+  "version": 4
+}
